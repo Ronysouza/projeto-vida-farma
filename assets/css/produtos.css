@@ -1,0 +1,45 @@
+.produt_img{
+	 
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+	transition: 0.5s;
+	  box-shadow: 2px 5px 10px #006400;
+	  border: 2px solid #fff;
+}
+
+
+.produt_img:hover{
+	transition: 0.5s;
+	transform: scale(1.09);
+	    box-shadow: 5px 10px 20px #006400;
+
+border: 2px solid #006400;
+	}
+
+
+.produt_img p{
+	padding-top: 10px;
+}
+
+
+.produt_cl{
+
+text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+	transition: 0.5s;
+	  
+
+
+
+}
+
+
+.produt_cl:hover{
+	transition: 0.5s;
+	transform: scale(1.09);
+	    box-shadow: 5px 10px 20px #006400;
+background-color:  #006400;
+border: 2px solid #006400;
+	}

@@ -1,0 +1,113 @@
+/*#banner1{
+ background-image: url(http://vidafarma.ml/assets/images/banner01.jpg);
+ background-size: cover;
+ background-position: center;
+ text-align: center;
+color: #fff;
+padding-top: 150px;
+padding-bottom: 150px;
+}
+
+#banner2{
+
+ background-image: url(http://vidafarma.ml/assets/images/banner02.jpg);
+  background-size: cover;
+ background-position: center;
+  text-align: center;
+color: #fff;
+padding-top: 200px;
+padding-bottom: 200px;
+}
+
+#banner3{
+ background-image: url(http://vidafarma.ml/assets/images/v.jpg);
+ background-size: cover;
+ background-position: center;
+  text-align: center;
+color: #fff;
+padding-top: 200px;
+padding-bottom: 200px;
+}*/
+
+.banner_efeito{
+	text-align: center;
+	background-color: #f0f0f0;
+}
+
+.banner-into{
+	background-color: #fff;
+	border-bottom: 5px solid #006400;
+	margin-top: -39px;
+	padding-top: 50px;
+	transition: 1s
+}
+
+.banner-into:hover{
+	transition: 1s;
+	transform: scale(1.15);
+	 
+	    box-shadow: 5px 10px 20px #006400;
+}
+
+iframe{
+	max-width: 800px;
+	width: 100%;
+	margin: auto;
+
+}
+
+
+.img_bum{
+	font-size: 20px;
+	justify-content: center;
+	float: left;
+}
+
+.bumbo{
+	font-size: 20px;
+	color: #999
+}
+
+.banner_fim{
+
+	padding: 50px;
+
+	text-align: center;
+	background-color: #f0f0f0;
+	border-radius: 2px;
+
+}
+
+.banner_fim h1{
+
+	font-weight: 400;
+
+
+}
+
+
+#menu_mobile{
+		 
+	background-color: rgba(0,0,0,0.9);
+	 
+	padding: 10PX;
+	border-radius: 3px;
+}
+
+#menu_mobile div{
+	text-align: center;
+	padding-left: 10px;
+	margin-top: 10px;
+	
+}
+
+#menu_mobile div a{
+
+	color: #fff;
+
+
+}
+
+#botao_menu_mobile{
+
+}

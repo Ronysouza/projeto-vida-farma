@@ -1,0 +1,181 @@
+#botao_menu_mobile{
+	display:none;
+}
+#menu_mobile{
+
+	 display: none;
+}
+
+
+.topo{
+	background-image: url(http://vidafarma.ml/assets/images/f.jpg);
+	height: 250px;
+	background-size: cover;
+	max-width: 1600px;
+	width: 100%;
+	margin: auto;
+	background-position: center;
+}
+
+.menu_top{
+	 z-index: 20;
+	max-width: 1600px;
+	width: 100%;
+	margin: auto;
+ 
+	position: absolute;
+
+
+}
+
+.menu_a{
+	float: left;
+}
+
+.logo_top{
+	margin-top: 50px;
+}
+
+.contato{
+	text-align: right;
+}
+
+.menu_class{
+    
+     
+   
+}
+
+.menu_a{
+
+	background-color:	#2F4F4F;
+	 
+	max-width: 100px;
+	width: 100%;
+border-right: 1px solid #006400;
+text-align: center;
+line-height: 100px;
+ 
+}
+
+
+
+.menu_b{ 
+
+
+	 background-image: url(http://vidafarma.ml/assets/images/t.png);
+    background-repeat: no-repeat;
+    background-position:top center;
+    text-align: center;	
+}
+
+
+
+.menu_a:hover{
+    
+    background-image: url(http://vidafarma.ml/assets/images/t.png);
+    background-repeat: no-repeat;
+    background-position:top center;
+    text-align: center;	
+}
+
+.menu_a a{
+	color: #fff;
+	font-weight: 500;
+}
+
+.menu_inf{
+  
+ 	 
+	 
+	margin-top: 50px;
+ 
+	 
+
+}
+
+#menu-r{
+
+	    max-width: 555px;
+	    width: 100%;
+    margin: auto;
+}
+
+.container_rodape{
+	max-width: 1600px;
+	width: 100%;
+	margin: auto;
+
+}
+
+.banner_rodape{
+	max-width: 1600px;
+	width: 100%;
+	margin: auto;
+	background-color:#2F4F4F;
+}
+
+
+.rodape_h1 h4{
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
+
+.rodape_h1 p{
+
+	text-align: center;
+	padding: 10px;
+		color: #fff;
+		font-size: 20px;
+}
+
+.banner_input input[type='text']{
+	margin-top: 50px;
+	background-color:	#006400; 
+	 
+	 background-image: url(http://vidafarma.ml/assets/images/u.png);
+	 background-repeat: no-repeat;
+	 background-position: left;
+	  border:1px solid	#006400;
+	  padding: 10px;
+}
+
+.banner_input input[type='email']{
+     padding: 10px;
+		margin-top: 50px;
+	background-color:#006400; 
+	 border:1px solid #006400;
+	 background-image: url(http://vidafarma.ml/assets/images/o.png);
+	 background-repeat: no-repeat;
+	 background-position: left;
+
+}
+
+
+.rodape_info{
+
+ 
+	 background-image: url(http://vidafarma.ml/assets/images/fundo1.jpg);
+}
+
+
+
+
+
+.divWhatsapp {
+    width: 60px;
+    bottom: 93px;
+    position: fixed;
+    z-index: 10;
+    left: 29px;
+}
+
+
+.img {
+    position: absolute;
+    animation-name: img;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+ 

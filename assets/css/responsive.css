@@ -1,0 +1,32 @@
+ @media (max-width: 700px){
+
+.menu_inf{
+	display: none;
+}
+
+#botao_menu_mobile{
+	display: block;
+}
+
+ 
+ }
+
+  @media (max-width: 570px){
+
+.banner_efeito {
+    margin-top: -30px;
+
+}
+
+.banner_efeito .col-sm-4{
+	    margin-top: 45px;
+}
+
+
+.banner-into {
+	margin-top:0 ;
+}
+
+
+ 
+ }
